@@ -19,7 +19,7 @@
 - Server version: 5.6.26
 - PHP Version: 5.5.28
 
-### Extract this -> [aarogya_v1.2.zip](https://github.com/MehaRima/aarogya_v1.2/blob/master/aarogya_v1.2.zip)
+### Extract this -> [online-ambulance-system.zip](https://github.com/Shivamupadhyay1/online-ambulance-system/blob/master/online-ambulance-system_v1.2.zip)
 
 ### _Steps_
 
